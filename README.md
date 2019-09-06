@@ -1,6 +1,5 @@
 # Distributed System Project
 
-
 	Teammate:
 	Yuqin Wu, yuqinwu@uchicago.edu
 	Xiangda Bai, xdbai@uchicago.edu
